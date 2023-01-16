@@ -833,6 +833,13 @@ footer p{
     line-height: 1.6em;
 }
 
+ul {
+    display: flex;
+    gap: 34px;
+    flex-direction: column;
+    margin: 10px;
+    
+}
 
 
 
